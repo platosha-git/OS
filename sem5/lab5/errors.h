@@ -1,0 +1,20 @@
+#ifndef EXIT_CODES_H
+#define EXIT_CODES_H
+
+enum ExitCodes
+{
+	SUCCESS,
+	
+	SHMGET_ERR,
+	SHMAT_ERR,
+	SHMCTL_ERR,
+	SHMDT_ERR,
+
+	SEMGET_ERR,
+	SEMOP_ERR,
+	SEMCTL_ERR,
+	
+	FORK_ERR
+};
+
+#endif
