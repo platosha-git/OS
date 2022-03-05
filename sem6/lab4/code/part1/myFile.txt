@@ -1,0 +1,159 @@
+
+-cmdline:
+	Complete command line - ./a.out
+
+-cwd:
+	Pathname of current working directory - /home/platosha/Desktop/BMSTU/5sem/OS/lab4
+
+-environ:
+SHELL=/bin/bash
+SESSION_MANAGER=local/platosha-UX310UAK:@/tmp/.ICE-unix/1647,unix/platosha-UX310UAK:/tmp/.ICE-unix/1647
+QT_ACCESSIBILITY=1
+COLORTERM=truecolor
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+XDG_MENU_PREFIX=gnome-
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GNOME_SHELL_SESSION_MODE=ubuntu
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+XMODIFIERS=@im=ibus
+DESKTOP_SESSION=ubuntu
+SSH_AGENT_PID=1604
+GTK_MODULES=gail:atk-bridge
+DBUS_STARTER_BUS_TYPE=session
+PWD=/home/platosha/Desktop/BMSTU/5sem/OS/lab4
+LOGNAME=platosha
+XDG_SESSION_DESKTOP=ubuntu
+XDG_SESSION_TYPE=x11
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+WINDOWPATH=2
+HOME=/home/platosha
+USERNAME=platosha
+IM_CONFIG_PHASE=1
+LANG=ru_RU.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+VTE_VERSION=6003
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/340fad37_b18d_4a85_9bc4_11e80ff95fc5
+INVOCATION_ID=396c7b598d74412db656468c0675470f
+MANAGERPID=1419
+LESSCLOSE=/usr/bin/lesspipe %s %s
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+LESSOPEN=| /usr/bin/lesspipe %s
+USER=platosha
+GNOME_TERMINAL_SERVICE=:1.82
+DISPLAY=:0
+SHLVL=1
+INSIDE_NAUTILUS_PYTHON=
+QT_IM_MODULE=ibus
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=8c7c47f771765c21bdce0c8560795839
+XDG_RUNTIME_DIR=/run/user/1000
+JOURNAL_STREAM=8:42794
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+PATH=/home/platosha/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+GDMSESSION=ubuntu
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=8c7c47f771765c21bdce0c8560795839
+_=./a.out
+
+
+-exe:
+	Pathname of the executed programm - /home/platosha/Desktop/BMSTU/5sem/OS/lab4/a.out
+
+-fd:
+	File: /proc/4559/fd/0	Inode: 69969	Link: /dev/pts/2
+	File: /proc/4559/fd/1	Inode: 69970	Link: /dev/pts/2
+	File: /proc/4559/fd/2	Inode: 69971	Link: /dev/pts/2
+	File: /proc/4559/fd/3	Inode: 69972	Link: pipe:[69183]
+	File: /proc/4559/fd/4	Inode: 69973	Link: pipe:[69183]
+
+-maps:
+555735b81000-555735b82000 r--p 00000000 08:05 1973867                    /home/platosha/Desktop/BMSTU/5sem/OS/lab4/a.out
+555735b82000-555735b83000 r-xp 00001000 08:05 1973867                    /home/platosha/Desktop/BMSTU/5sem/OS/lab4/a.out
+555735b83000-555735b84000 r--p 00002000 08:05 1973867                    /home/platosha/Desktop/BMSTU/5sem/OS/lab4/a.out
+555735b84000-555735b85000 r--p 00002000 08:05 1973867                    /home/platosha/Desktop/BMSTU/5sem/OS/lab4/a.out
+555735b85000-555735b86000 rw-p 00003000 08:05 1973867                    /home/platosha/Desktop/BMSTU/5sem/OS/lab4/a.out
+55573789c000-5557378bd000 rw-p 00000000 00:00 0                          [heap]
+7fbc6a0b8000-7fbc6a0bb000 rw-p 00000000 00:00 0 
+7fbc6a0bb000-7fbc6a0e0000 r--p 00000000 08:05 17867200                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fbc6a0e0000-7fbc6a258000 r-xp 00025000 08:05 17867200                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fbc6a258000-7fbc6a2a2000 r--p 0019d000 08:05 17867200                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fbc6a2a2000-7fbc6a2a3000 ---p 001e7000 08:05 17867200                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fbc6a2a3000-7fbc6a2a6000 r--p 001e7000 08:05 17867200                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fbc6a2a6000-7fbc6a2a9000 rw-p 001ea000 08:05 17867200                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fbc6a2a9000-7fbc6a2ad000 rw-p 00000000 00:00 0 
+7fbc6a2ad000-7fbc6a2bc000 r--p 00000000 08:05 17867842                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fbc6a2bc000-7fbc6a363000 r-xp 0000f000 08:05 17867842                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fbc6a363000-7fbc6a3fa000 r--p 000b6000 08:05 17867842                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fbc6a3fa000-7fbc6a3fb000 r--p 0014c000 08:05 17867842                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fbc6a3fb000-7fbc6a3fc000 rw-p 0014d000 08:05 17867842                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fbc6a3fc000-7fbc6a3fe000 rw-p 00000000 00:00 0 
+7fbc6a412000-7fbc6a413000 r--p 00000000 08:05 17866984                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fbc6a413000-7fbc6a436000 r-xp 00001000 08:05 17866984                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fbc6a436000-7fbc6a43e000 r--p 00024000 08:05 17866984                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fbc6a43f000-7fbc6a440000 r--p 0002c000 08:05 17866984                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fbc6a440000-7fbc6a441000 rw-p 0002d000 08:05 17866984                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fbc6a441000-7fbc6a442000 rw-p 00000000 00:00 0 
+7ffdc993a000-7ffdc995b000 rw-p 00000000 00:00 0                          [stack]
+7ffdc99ea000-7ffdc99ee000 r--p 00000000 00:00 0                          [vvar]
+7ffdc99ee000-7ffdc99f0000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+
+
+-root:
+	Per-process root of the filesystem: /
+
+-stat:
+	pid 		(id процесса):	4559
+	comm 		(имя исполняемого файла):	(a.out)
+	state 		(состояние R/S/D/Z/T):	R
+	ppid 		(pid процесса):	4251
+	pgrp 		(pgrp процесса):	4559
+	session 	(id сессии):	4251
+	tty 		(управляющий терминал):	34818
+	tpgid 		(pgrp процесса управляющего терминалом):	4559
+	flags 		(флаги процесса):	4194304
+	min_flt 	(количество малых сбоев работы процесса):	93
+	cmin_flt 	(количество малых сбоев в процессе и его сыновьях):	0
+	maj_flt 	(количество существенных сбоев в процессе):	0
+	cmaj_flt 	(количество существенных сбоев в процессе и его сыновьях):	0
+	utime 		(количество тиков после распределения работы в режиме пользователя):	268
+	stime 		(количество тиков после распределения работы в режиме ядра):	0
+	cutime 	(количество тиков после распределения работы процесса и его сыновей в режиме пользователя):	0
+	cstime 	(количество тиков после распределения работы процесса и его сыновей в режиме ядра):	0
+	priority 	(приоритет процесса):	20
+	nice:	0
+	num_threads (количество потоков):	1
+	it_real_value 	(количество тиков до отправки SIGALARM):	0
+	start_time (время от запуска системы до запуска процесса):	332191
+	vsize 		(размер виртуальной памяти, байт):	3940352
+	rss 		(количество страниц загруженных в память):	212
+	rlim 		(предел размера процесса):	18446744073709551615
+	start_code (адрес, выше которого может выполняться программа:	93833051774976
+	end_code 	(адрес, ниже которого может выполняться программа:	93833051776245
+	start_stack (адрес начала стека):	140727985472944
+	kstk_esp 	(текущее значение ESP):	0
+	kstk_eip 	(текущее значение EIP):	0
+	signal 	(побитовая таблица задержки сигналов):	0
+	blocked 	(побитовая таблица блокируемых сигналов):	0
+	sigignore 	(побитовая таблица игнорируемых сигналов):	0
+	sigcatch 	(побитовая таблица полученных сигналов):	2
+	wchan 		(канал, где процесс находится в режиме ожидания):	0
+	nswap:	0
+	cnswap:	0
+	exit_signal:	17
+	processor:	1
+	rt_priority:	0
+	policy:	0
+	delayacct_blkio_tics:	0
+	quest_time:	0
+	cquest_time:	0
+	start_data:	93833051786576
+	end_data:	93833051787280
+	start_brk:	93833082290176
+	arg_start:	140727985480603
+	arg_end:	140727985480611
+	env_start:	140727985480611
+	env_end:	140727985483760
+	exit_code:	0
+
